@@ -7,6 +7,6 @@
   "miniicon": "icon.png",
   "vendor": "HP",
   "vendorurl": "hp.com",
-  "app": "com.palmdts.txjsfortune.app",
+  "app": "com.palmdts.txjsfortune",
   "services": ["com.palmdts.txjsfortune.service"]
 }
